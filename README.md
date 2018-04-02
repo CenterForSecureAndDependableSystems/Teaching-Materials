@@ -5,4 +5,5 @@ Initial Major Topic Contents:
 
 - Introduction to Cyber Security
 - Network Security
+- Common and Prerequisite Materials
 - Software Analysis
