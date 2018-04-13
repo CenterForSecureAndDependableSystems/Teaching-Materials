@@ -1,5 +1,5 @@
 # Teaching-Materials for Common and Prerequisite Material
-Lecture notes, slides, demos, labs and other cyber security learning aides. This material is specificalyl used as prerequisite background and common material for cybersecurity lectures.
+Lecture notes, slides, demos, labs and other cyber security learning aides. This material is specifically used as prerequisite background and common material for cybersecurity lectures.
 
 
 Initial Major Topic Contents:
